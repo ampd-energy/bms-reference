@@ -1,74 +1,92 @@
 {
   "1" : {
-    "description" : "Cell voltage is too high",
+    "title" : "Cell voltage is too high",
+    "message" : "TBC",
     "severity" : 1
   },
   "2" : {
-    "description" : "Cell voltage is too low",
+    "title" : "Cell voltage is too low",
+    "message" : "TBC",
     "severity" : 1
   },
   "3" : {
-    "description" : "Cell voltages differ >setting",
+    "title" : "Cell voltages differ >setting",
+    "message" : "Some battery cell voltages differ more than the allowed threshold. Please wait for the system to balance the cell voltages.",
     "severity" : 3
   },
   "4" : {
-    "description" : "Cell temperature is too high",
+    "title" : "Cell temperature is too high",
+    "message" : "TBC",
     "severity" : 1
   },
   "5" : {
-    "description" : "BMS temperature is too high",
+    "title" : "BMS temperature is too high",
+    "message" : "The temperature of the battery management system (BMS) is too high. Please wait for the system to cool down.",
     "severity" : 2
   },
   "6" : {
-    "description" : "Address is not set properly",
+    "title" : "Address is not set properly",
+    "message" : "TBC",
     "severity" : 1
   },
   "7" : {
-    "description" : "Temperature is too low for charging",
+    "title" : "Temperature is too low for charging",
+    "message" : "System temperature is below the operating limit. Charging has been disabled. Please ensure that the ambient temperature is above 5°C.",
     "severity" : 3
   },
   "8" : {
-    "description" : "Temperature sensor error",
+    "title" : "Temperature sensor error",
+    "message" : "TBC",
     "severity" : 1
   },
   "9" : {
-    "description" : "Communication error",
+    "title" : "Communication error",
+    "message" : "TBC",
     "severity" : 1
   },
   "10" : {
-    "description" : "Cell volt measurement error",
+    "title" : "Cell volt measurement error",
+    "message" : "TBC",
     "severity" : 1
   },
   "11" : {
-    "description" : "EMS contactor short circuited",
+    "title" : "EMS contactor short circuited",
+    "message" : "TBC",
     "severity" : 1
   },
   "12" : {
-    "description" : "Error measuring current",
+    "title" : "Error measuring current",
+    "message" : "TBC",
     "severity" : 1
   },
   "13" : {
-    "description" : "Wrong cell chemistry selected",
+    "title" : "Wrong cell chemistry selected",
+    "message" : "TBC",
     "severity" : 1
   },
   "14" : {
-    "description" : "Wrong EEPROM value",
+    "title" : "Wrong EEPROM value",
+    "message" : "EEPROM data has been modified or erased due to EMI interference. Default settings will be used.",
     "severity" : 3
   },
   "15" : {
-    "description" : "Pack voltages differ >15 V",
+    "title" : "Pack voltages differ >15 V",
+    "message" : "TBC",
     "severity" : 2
   },
   "16" : {
-    "description" : "Over-current in charging",
+    "title" : "Over-current in charging",
+    "message" : "TBC",
     "severity" : 1
   },
   "17" : {
-    "description" : "BMS Hardware failure",
+    "title" : "BMS Hardware failure",
+    "message" : "TBC",
     "severity" : 1
   },
   "18" : {
-    "description" : "PACK count incorrect",
+    "title" : "PACK count incorrect",
+    "message" : "TBC",
     "severity" : 1
   }
 }
