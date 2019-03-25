@@ -1,0 +1,15 @@
+{
+  "name": "bms-reference",
+  "version": "1.0.0",
+  "description": "BMS error references for dashboard",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ampd-energy/bms-reference.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ampd-energy/bms-reference/issues"
+  },
+  "homepage": "https://github.com/ampd-energy/bms-reference#readme"
+}
